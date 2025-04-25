@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon ./src/",
-    "start": "pm2 start ./src/index.js --name phonetec",
+    "start": "node ./src/index.js ",
     "stop": "pm2 stop phonetec"
   },
   "keywords": [],
