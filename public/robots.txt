@@ -1,0 +1,6 @@
+Sitemap: https://www.phonetec.es/sitemap.xml
+
+# global
+User-agent: *
+Disallow: /xmlrpc.php
+
